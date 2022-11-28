@@ -9,7 +9,7 @@ NODE_HOME=~/.strange
 NODE_MONIKER=strange
 # ***
 
-CHAIN_BINARY_URL='https://github.com/hyphacoop/ics-testnets/raw/main/game-of-chains-2022/strange/stranged'
+CHAIN_BINARY_URL='https://github.com/strangelove-ventures/ics-testnets/raw/main/game-of-chains-2022/strange/prop-9/stranged'
 CHAIN_BINARY='stranged'
 CHAIN_ID=strange-1
 PERSISTENT_PEERS="595923e093cbe11dea4f816b48e87691a614a964@34.82.58.71:26656,595923e093cbe11dea4f816b48e87691a614a964@34.145.117.181:26656"
